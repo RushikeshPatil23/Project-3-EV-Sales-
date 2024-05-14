@@ -1,6 +1,6 @@
 ### Rushikesh`s Portfolio
 
-# [Project 3: Electric Vehicle (EV) Sales Analysis] (https://rushikeshpatil23.github.io/Project-3-EV-Sales-/)
+# [Project 3: Electric Vehicle (EV) Sales Analysis](https://rushikeshpatil23.github.io/Project-3-EV-Sales-/)
    this dataset was downloaded from Kaggle. In this project, I analysed the sales of electric vehicles in the US by different companies and created an insightful dashboard to present the sales in different 
    states and other factors that can help their businesses grow.
 

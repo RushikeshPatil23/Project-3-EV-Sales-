@@ -1,7 +1,6 @@
 # [Sales Insights-Data Analutics](https://rushikeshpatil23.github.io/Project-3-EV-Sales-/)
 - Goals
-   this dataset was downloaded from Kaggle. In this project, I analysed the sales of electric vehicles in the US by different companies and created an insightful dashboard to present the sales in different 
-   states and other factors that can help their businesses grow.
+   The primary goal of this data analysis is to generate actionable sales insights for electric vehicle (EV) sales across different companies. By examining key metrics such as sales volume, market share, growth trends, and regional distribution, the analysis aims to identify patterns and opportunities that can inform strategic decision-making for stakeholders.
 
 ### Dataset - Electric_Vehicle_Population_Data.csv
 

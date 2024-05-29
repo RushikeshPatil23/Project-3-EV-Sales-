@@ -1,6 +1,4 @@
-
-
-# [Sales Insgihts-Data Analutics](https://rushikeshpatil23.github.io/Project-3-EV-Sales-/)
+# [Sales Insights-Data Analutics](https://rushikeshpatil23.github.io/Project-3-EV-Sales-/)
 - Goals
    this dataset was downloaded from Kaggle. In this project, I analysed the sales of electric vehicles in the US by different companies and created an insightful dashboard to present the sales in different 
    states and other factors that can help their businesses grow.

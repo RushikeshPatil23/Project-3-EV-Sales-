@@ -1,4 +1,4 @@
-# [Sales Insights-Data Analytics](https://rushikeshpatil23.github.io/Project-3-EV-Sales-/)
+# [Sales Insights-Data Analytics]([https://rushikeshpatil23.github.io/Project-3-EV-Sales-/](https://rushikeshpatil23.github.io/Sales-Insight-Electric-vehcile-Sales/))
 
 - Goals
 

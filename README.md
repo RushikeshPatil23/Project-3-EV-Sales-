@@ -8,7 +8,7 @@ The primary goal of this data analysis is to generate actionable sales insights 
 
 ### Tools 
 
-  - Excel - Data Cleaning and creating Dashboard.
+  - Excel - Data Cleaning, Modifications
   - Tableau - Dashboard Creation.
 
 ### Excel

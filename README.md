@@ -4,6 +4,8 @@
 
 The primary goal of this data analysis is to generate actionable sales insights for electric vehicle (EV) sales across different companies. By examining key metrics such as sales volume, market share, growth trends, and regional distribution, the analysis aims to identify patterns and opportunities that can inform strategic decision-making for stakeholders.
 
+# Dashboard
+
 ### Dataset - Electric_Vehicle_Population_Data.csv
 
 ### Tools 

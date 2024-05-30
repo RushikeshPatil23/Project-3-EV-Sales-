@@ -1,4 +1,4 @@
-# [Sales Insights-Electric vehicle sales-Data Analytics](https://rushikeshpatil23.github.io/Sales-Insight-Electric-vehcile-Sales/)
+# [Sales Insights-Electric vehicle sales-Data Analytics]( https://rushikeshpatil23.github.io/Sales-Insight-Electric-vehicle-Sales/)
 
 - Goals
 
